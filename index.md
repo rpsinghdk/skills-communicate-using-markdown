@@ -9,3 +9,7 @@ Normal text
 
 
 Checking how the headers and normal text look on Git
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+### Now the Image
